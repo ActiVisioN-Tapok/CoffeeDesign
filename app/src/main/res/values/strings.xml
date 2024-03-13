@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CoffeeDesign</string>
+    <string name="cf_1">Coffee so good, your taste buds will love it.</string>
+    <string name="get_started">Get Started</string>
+    <string name="cf2">The best grain, the finest roast, the powerful flavour</string>
+    <string name="title_activity_vtoroe_okno">VtoroeOkno</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_bag">Orders</string>
+    <string name="todo">TODO</string>
+    <string name="tw_home_1_action">Акция!</string>
+</resources>
